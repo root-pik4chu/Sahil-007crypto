@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sahil-007crypto
-- 👀 I’m interested in coding .
+- 👀 I’m interested in exploring new stuff, cpp and bla bla....blaa......
 - 🌱 I’m currently learning cpp data structures , and CLI .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... @pikachu5518 -(insta ID)
+- 
 
 <!---
 Sahil-007crypto/Sahil-007crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
