@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-007crypto
-- 👀 I’m interested in exploring new stuff, cpp and bla bla....blaa......
-- 🌱 I’m currently learning cpp data structures , and CLI .
+- 👀 I’m interested in exploring new stuff, cpp , java and bla bla....blaa......stuff......
+- 🌱 I’m currently learning java data structures , and CLI linux.
 - 📫 How to reach me ... @pikachu5518 -(insta ID)
 - 
 
